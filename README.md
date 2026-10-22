@@ -9,7 +9,7 @@ Warm paper and ink, IBM Plex Sans + Mono, one green accent. Borders instead of s
 Add the registry to your `components.json`:
 
 ```json
-{ "registries": { "@atlas": "https://usualdesigner.github.io/selfhostatlas-ui/r/{name}.json" } }
+{ "registries": { "@atlas": "https://selfhostatlas.github.io/selfhostatlas-ui/r/{name}.json" } }
 ```
 
 Then:

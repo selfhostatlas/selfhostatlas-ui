@@ -1,7 +1,7 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry.json",
   "name": "atlas",
-  "homepage": "https://usualdesigner.github.io/selfhostatlas-ui",
+  "homepage": "https://selfhostatlas.github.io/selfhostatlas-ui",
   "items": [
     {
       "name": "style",
